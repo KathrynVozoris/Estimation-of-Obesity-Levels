@@ -11,7 +11,7 @@ This project applies machine learning techniques to predict obesity levels based
 | ------------------|-------------|
 | [**Arezoo Khalili**](https://github.com/Arezookhalili)| [Video link](https://drive.google.com/file/d/1R9KJtClii35X0K13XacfvGpxG0r_dh9j/view?usp=drive_link) |
 | [**Jyoti Narang**](https://github.com/drop2jyoti) | [Video Link](https://drive.google.com/drive/folders/1kZ9L8xZUXKYOCRIFD6hSeOCnnMrqTmZb) |
-| [**Kathryn Vozoris**](https://github.com/KathrynVozoris) | [Video Link]()|
+| [**Kathryn Vozoris**](https://github.com/KathrynVozoris) | [Video Link](https://drive.google.com/file/d/1S_tkjdZrOUh2_IRoAyc929fKH7tDyFPz/view?usp=drive_link)|
 |  [**Zekiye Erdem**](https://github.com/zekiyerdem)|[Video Link](https://drive.google.com/drive/folders/1edbiriTnRMPIYdsnzrAsmYj4fHGTJP6n?usp=sharing)|
 
 
