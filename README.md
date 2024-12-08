@@ -84,7 +84,7 @@ Before modeling, we performed the following data cleaning steps:
 - Conclusions and summary of findings
 
 #### 4. Key Observations 
-- We have highest number of people with Obesity_Type 1. <sup>[1](https://github.com/drop2jyoti/Estimation-of-Obesity-Levels/blob/main/reports/Images.md)</sup>
+- The obesity class with the largest number of people was Obesity_Type 1. <sup>[1](https://github.com/drop2jyoti/Estimation-of-Obesity-Levels/blob/main/reports/Images.md)</sup>
 - On average most people have family history of obesity.<sup>[2](https://github.com/drop2jyoti/Estimation-of-Obesity-Levels/blob/main/reports/Images.md)<sup>
 - Most people use some form of vehicles while only ~2.7% prefers walking/using bike That's concerning!
 - More females are Obese as compared to males.<sup>[3](https://github.com/drop2jyoti/Estimation-of-Obesity-Levels/blob/main/reports/Images.md)</sup>
