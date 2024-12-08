@@ -157,7 +157,6 @@ The table below shows the performance results of the various models tested. Mode
 
 ![model-performance-chart](https://github.com/user-attachments/assets/017420e5-0b3a-4422-a563-d3d682af29cd)
 
-![Model Comparison Table](reports/image1.png)
 
 ### Future Scope and Next Steps
 
