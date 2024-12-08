@@ -155,6 +155,10 @@ Therefore, these are the features of primary importance when assessing an indivi
 The table below shows the performance results of the various models tested. Models run with the features 'Height' and 'Weight' eliminated are noted as '_EWH'.  Models run with 'Selected Features' were run using only the top 8 features indicated above: Age, Frequency of Vegetables, Gender, Water Intake, Physical Activity, Tech Use, Number of Meals and Family History (Yes).
 
 
+![performance-chart](https://github.com/user-attachments/assets/e15a0aef-6b8a-4f6e-bbc6-048f27f359e8)
+
+
+
 ![model-performance-chart](https://github.com/user-attachments/assets/017420e5-0b3a-4422-a563-d3d682af29cd)
 
 
