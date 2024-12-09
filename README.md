@@ -164,43 +164,6 @@ XGBoost is the most robust and reliable model for this dataset. It should be con
 Lastly, we considered miscategorized data using a Confusion Matrix<sup>[7](https://github.com/drop2jyoti/Estimation-of-Obesity-Levels/blob/main/reports/Images.md)</sup>.  These misclassified labels could also be the subject of further investigation.
 
 
-#### Task Allocation
-
-#### 1. **Exploratory Data Analysis (EDA)**
-   - **Lead:** Jyoti
-   - **Support:** Arezoo
-   - Tasks: Examine class and age distributions, identify outliers, explore missing values, and analyze correlations.
-
-#### 2. **Data Cleaning**
-   - **Lead:** Arezoo
-   - **Support:** Zekiye
-   - Tasks: Remove duplicates, handle outliers, and manage missing values as necessary.
-
-#### 3. **One-Hot Encoding for Categorical Variables and Scaling of Numerical Data**
-   - **Lead:** Kathryn
-   - Tasks: Prepare categorical variables for machine learning through one-hot encoding. Consider scaling options for numerical data, and apply scaler.
-
-#### 4. **Machine Learning Modeling**
-   - **Lead:** Zekiye
-   - **Support:** Jyoti
-   - Tasks: Implement Decision Tree, Random Forest, Logistic Regression, and Naive Bayes models. Evaluate and compare models on metrics (accuracy, precision, recall, F1 score, log loss).
-
-#### 5. **Feature Engineering**
-   - **Lead:** Zekiye
-   - **Support:** Arezoo
-   - Tasks: Use Random Forest for feature importance assessment and analyze correlation matrix to remove redundant features.
-
-#### 6. **Feature Elimination and Model Comparison**
-   - **Lead:** Jyoti
-   - **Support:** Kathryn
-   - Tasks: Perform feature elimination and compare model performance with a reduced feature set vs. the baseline model.
-
-#### 7. **Findings and Conclusion**
-   - **Lead:** Kathryn
-   - **Support:** All Members
-   - Tasks: Summarize key findings, draw conclusions, and compile the final report.
-
-
 ### Project 
 https://github.com/users/drop2jyoti/projects/2
 
