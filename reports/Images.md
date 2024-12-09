@@ -29,7 +29,8 @@
 
 ## 6. SHAP Analysis for XGBoost model run without the features 'Height' and 'Weight"
 
-![SHAP Image](https://github.com/drop2jyoti/Estimation-of-Obesity-Levels/raw/main/reports/image-src/SHAP.png)
+
+![SHAP](https://github.com/user-attachments/assets/02aadcc2-22bb-44c8-ac7e-a7b07bb1c179)
 
 
 ## 7. Lastly, we considered miscategorized data using a **Confusion Matrix**
