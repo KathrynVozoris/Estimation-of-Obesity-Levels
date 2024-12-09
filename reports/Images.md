@@ -29,8 +29,7 @@
 
 ## 6. SHAP Analysis for XGBoost model run without the features 'Height' and 'Weight"
 
-![Screenshot_6-12-2024_142340_github com](https://github.com/user-attachments/assets/425d0e5c-cc8e-4787-bb04-c68af3cea3f1)
-
+![SHAP analysis](https://github.com/user-attachments/assets/7e3b0519-6baf-42de-813a-13ce6c96cf5c)
 
 ## 7. Lastly, we considered miscategorized data using a **Confusion Matrix**
 
