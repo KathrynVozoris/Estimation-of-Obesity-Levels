@@ -29,7 +29,7 @@ The analysis could help in designing custom insurance policies or health premium
 
 ## Libraries and Frameworks
 
-This project will be performed using Python and Python Libraries including: 
+This project was performed using Python and Python Libraries including: 
       <ul>
         <li>Pandas</li>
         <li>Numpy</li>
