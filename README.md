@@ -57,7 +57,15 @@ The target variable, **Obesity Level**, represents obesity levels and includes *
 - Class 5: Obesity Type II
 - Class 6: Obesity Type III
   
+<<<<<<< HEAD
+<<<<<<< HEAD
+For more information about the dataset columns please visit [here](data/README.md).
+=======
 For more information on the dataset columns please visit [here](data/README.md).
+>>>>>>> 82a7bed8c337621b697649d448b0f083579e4f02
+=======
+For more information on the dataset columns please visit [here](data/README.md).
+>>>>>>> c7831c71b86d9da2e156206977baed0b4c77d184
 
 ## Methodology Outline
 
