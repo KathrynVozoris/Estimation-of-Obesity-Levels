@@ -165,7 +165,7 @@ Lastly, we considered miscategorized data using a Confusion Matrix<sup>[7](https
 
 
 ### Project 
-https://github.com/users/drop2jyoti/projects/2
+[Project page](https://github.com/KathrynVozoris/Estimation-of-Obesity-Levels)
 
 
 [Appendix of Images](https://github.com/KathrynVozoris/Estimation-of-Obesity-Levels/blob/main/reports/Images.md)
